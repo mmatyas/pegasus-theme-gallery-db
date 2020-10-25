@@ -9,10 +9,11 @@ https://github.com/mmatyas/pegasus-theme-flixnet
 https://github.com/mmatyas/pegasus-theme-grid
 https://github.com/mmatyas/pegasus-theme-grid-micro
 https://github.com/mmatyas/pegasus-theme-secretary
-https://github.com/pikzen/xbone-pegasus
 https://github.com/PlayingKarrde/gameOS
 https://github.com/PlayingKarrde/clearOS
+https://github.com/PlayingKarrde/prosperoOS
 https://github.com/PlayingKarrde/switchOS
+https://github.com/pikzen/xbone-pegasus
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/valsou/neoretro
