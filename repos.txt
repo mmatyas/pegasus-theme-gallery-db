@@ -17,3 +17,5 @@ https://github.com/pikzen/xbone-pegasus
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/valsou/neoretro
+https://github.com/dragoonDorise/RP-RG351
+https://github.com/dragoonDorise/RP-Switch
