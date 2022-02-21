@@ -26,4 +26,4 @@ https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/valsou/neoretro
 https://github.com/waldnercharles/Minimis
-https://github.com/TigraTT-Driver/neoretro-dark
+https://github.com/TigraTT-Driver/shinretro
