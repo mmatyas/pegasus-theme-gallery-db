@@ -8,6 +8,7 @@ https://github.com/dragoonDorise/RP-RG351
 https://github.com/dragoonDorise/RP-Switch
 https://github.com/eleo95/pegasus-theme-refiOS
 https://github.com/fastpop72/bartopOS
+https://github.com/Fr75s/library
 https://github.com/jimbob4000/gameOS
 https://github.com/mmatyas/pegasus-theme-9999999-in-1
 https://github.com/mmatyas/pegasus-theme-es2-simple
@@ -24,6 +25,6 @@ https://github.com/PlayingKarrde/switchOS
 https://github.com/RBertoCases/skylineOS
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
+https://github.com/TigraTT-Driver/shinretro
 https://github.com/valsou/neoretro
 https://github.com/waldnercharles/Minimis
-https://github.com/TigraTT-Driver/shinretro
