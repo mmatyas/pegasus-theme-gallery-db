@@ -26,5 +26,6 @@ https://github.com/RBertoCases/skylineOS
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/TigraTT-Driver/shinretro
+https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
 https://github.com/waldnercharles/Minimis
