@@ -32,3 +32,4 @@ https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
 https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
+https://github.com/riquenunes/pegasus-theme-npe
