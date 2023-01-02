@@ -10,6 +10,7 @@ https://github.com/dragoonDorise/RP-Switch
 https://github.com/eleo95/pegasus-theme-refiOS
 https://github.com/fastpop72/bartopOS
 https://github.com/Fr75s/library
+https://github.com/FrenchGithubUser/epic-memories-theme
 https://github.com/ismaelestalayo/skylineOSP
 https://github.com/jimbob4000/gameOS
 https://github.com/mmatyas/pegasus-theme-9999999-in-1
@@ -25,6 +26,7 @@ https://github.com/PlayingKarrde/gameOS
 https://github.com/PlayingKarrde/prosperoOS
 https://github.com/PlayingKarrde/switchOS
 https://github.com/RBertoCases/skylineOS
+https://github.com/riquenunes/pegasus-theme-npe
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/TigraTT-Driver/shinretro
@@ -32,4 +34,3 @@ https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
 https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
-https://github.com/riquenunes/pegasus-theme-npe
