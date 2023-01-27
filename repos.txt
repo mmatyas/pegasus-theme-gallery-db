@@ -3,6 +3,7 @@ https://github.com/asdfgasfhsn/pegasus-theme-homage
 https://github.com/basvroegop/RetroidFlix
 https://github.com/basvroegop/RetroidStation
 https://github.com/buzz/pegasus-theme-slick
+https://github.com/carloslmar/pegasus-theme-9999999-in-1-poly
 https://github.com/DFOXpro/rp2-pegasus-theme-grid
 https://github.com/djfumberger/retromega
 https://github.com/dragoonDorise/RP-RG351
