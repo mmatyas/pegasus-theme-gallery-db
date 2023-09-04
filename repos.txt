@@ -12,6 +12,7 @@ https://github.com/eleo95/pegasus-theme-refiOS
 https://github.com/fastpop72/bartopOS
 https://github.com/Fr75s/library
 https://github.com/FrenchGithubUser/epic-memories-theme
+https://github.com/HomeStarRunnerTron/gameOS-fire-sKye
 https://github.com/ismaelestalayo/skylineOSP
 https://github.com/jimbob4000/gameOS
 https://github.com/Lx-Dm/Pegasus-theme-XrossMediaBar
