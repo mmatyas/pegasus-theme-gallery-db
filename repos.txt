@@ -22,6 +22,7 @@ https://github.com/mmatyas/pegasus-theme-flixnet
 https://github.com/mmatyas/pegasus-theme-grid
 https://github.com/mmatyas/pegasus-theme-grid-micro
 https://github.com/mmatyas/pegasus-theme-secretary
+https://github.com/nicjansma/pegasus-theme-slate-es-de
 https://github.com/pikzen/xbone-pegasus
 https://github.com/plaidman/retromega-next
 https://github.com/PlayingKarrde/clearOS
