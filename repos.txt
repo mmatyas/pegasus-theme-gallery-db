@@ -32,7 +32,7 @@ https://github.com/PlayingKarrde/prosperoOS
 https://github.com/PlayingKarrde/switchOS
 https://github.com/RBertoCases/skylineOS
 https://github.com/riquenunes/pegasus-theme-npe
-https://github.com/RobZombie9043/retromega-sleipnir-colorful
+https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/TigraTT-Driver/shinretro
