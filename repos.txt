@@ -8,6 +8,7 @@ https://github.com/DFOXpro/rp2-pegasus-theme-grid
 https://github.com/djfumberger/retromega
 https://github.com/dragoonDorise/RP-RG351
 https://github.com/dragoonDorise/RP-Switch
+https://github.com/ElectronicRave/ES-Simple-Clean
 https://github.com/ElectronicRave/RP-Launcher
 https://github.com/eleo95/pegasus-theme-refiOS
 https://github.com/fastpop72/bartopOS
@@ -35,6 +36,7 @@ https://github.com/riquenunes/pegasus-theme-npe
 https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
+https://github.com/strucep/struceOS-Pegasus-Theme
 https://github.com/TigraTT-Driver/shinretro
 https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
@@ -42,5 +44,4 @@ https://github.com/VGmove/EasyLaunch
 https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
 https://github.com/ZagonAb/FlixNet_Plus
-https://github.com/ElectronicRave/ES-Simple-Clean
-https://github.com/strucep/struceOS-Pegasus-Theme
+https://github.com/ZagonAb/RetroArcade
