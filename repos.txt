@@ -35,7 +35,7 @@ https://github.com/riquenunes/pegasus-theme-npe
 https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-https://github.com/strucep/struceOS-Pegasus-Theme
+https://github.com/my-name-is-p/struceOS-Pegasus-Theme
 https://github.com/TigraTT-Driver/shinretro
 https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
