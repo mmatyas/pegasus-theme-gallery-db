@@ -24,6 +24,7 @@ https://github.com/mmatyas/pegasus-theme-flixnet
 https://github.com/mmatyas/pegasus-theme-grid
 https://github.com/mmatyas/pegasus-theme-grid-micro
 https://github.com/mmatyas/pegasus-theme-secretary
+https://github.com/my-name-is-p/struceOS-Pegasus-Theme
 https://github.com/nicjansma/pegasus-theme-slate-es-de
 https://github.com/plaidman/retromega-next
 https://github.com/PlayingKarrde/clearOS
@@ -35,7 +36,6 @@ https://github.com/riquenunes/pegasus-theme-npe
 https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-https://github.com/my-name-is-p/struceOS-Pegasus-Theme
 https://github.com/TigraTT-Driver/shinretro
 https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
@@ -44,4 +44,5 @@ https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
 https://github.com/ZagonAb/Flat-Ozone
 https://github.com/ZagonAb/FlixNet_Plus
+https://github.com/ZagonAb/PlayHub
 https://github.com/ZagonAb/RetroArcade
