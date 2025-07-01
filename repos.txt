@@ -44,8 +44,10 @@ https://github.com/VGmove/EasyLaunch
 https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
 https://github.com/ZagonAb/Anbernic-Theme
+https://github.com/ZagonAb/ColorShader
 https://github.com/ZagonAb/Flat-Ozone
 https://github.com/ZagonAb/FlixNet_Plus
+https://github.com/ZagonAb/Limbo-Theme
 https://github.com/ZagonAb/Nostalgia-Grid
 https://github.com/ZagonAb/PlayHub
 https://github.com/ZagonAb/VideoGame
