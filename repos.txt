@@ -18,6 +18,7 @@ https://github.com/HomeStarRunnerTron/gameOS-fire-sKye
 https://github.com/ismaelestalayo/skylineOSP
 https://github.com/jimbob4000/gameOS
 https://github.com/LeeBigelow/pegasus-theme-slatest
+https://github.com/LeeBigelow/pegasus-theme-amiga-workbench
 https://github.com/Lx-Dm/Pegasus-theme-XrossMediaBar
 https://github.com/mmatyas/pegasus-theme-9999999-in-1
 https://github.com/mmatyas/pegasus-theme-es2-simple
