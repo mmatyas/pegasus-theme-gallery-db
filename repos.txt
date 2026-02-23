@@ -38,7 +38,7 @@ https://github.com/riquenunes/pegasus-theme-npe
 https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
-https://github.com/tap0119/PegasusBoyLite
+https://github.com/thomas0465/PegasusBoyLite
 https://github.com/TigraTT-Driver/shinretro
 https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
