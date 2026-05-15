@@ -12,6 +12,7 @@ https://github.com/ElectronicRave/ES-Simple-Clean
 https://github.com/ElectronicRave/RP-Launcher
 https://github.com/eleo95/pegasus-theme-refiOS
 https://github.com/fastpop72/bartopOS
+https://github.com/flagrant99/pegasus-theme-genre-filter
 https://github.com/Fr75s/library
 https://github.com/FrenchGithubUser/epic-memories-theme
 https://github.com/HomeStarRunnerTron/gameOS-fire-sKye
