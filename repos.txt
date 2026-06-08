@@ -21,6 +21,7 @@ https://github.com/jimbob4000/gameOS
 https://github.com/LeeBigelow/pegasus-theme-amiga-workbench
 https://github.com/LeeBigelow/pegasus-theme-slatest
 https://github.com/luxureousproductions-bit/XboxOSv2
+https://github.com/luxureousproductions-bit/XboxOSv2
 https://github.com/Lx-Dm/Pegasus-theme-XrossMediaBar
 https://github.com/mlumeau/pegasus-theme-clean-covers
 https://github.com/mlumeau/pegasus-theme-clean-covers-desktop
