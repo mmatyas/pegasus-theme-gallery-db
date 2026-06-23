@@ -52,6 +52,7 @@ https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
 https://github.com/ZagonAb/Anbernic-Theme
 https://github.com/ZagonAb/BigScreenFE
+https://github.com/ZagonAb/Collection-Hub
 https://github.com/ZagonAb/ColorShader
 https://github.com/ZagonAb/Flat-Ozone
 https://github.com/ZagonAb/FlatFlix
