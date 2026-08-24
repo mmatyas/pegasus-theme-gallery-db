@@ -50,6 +50,7 @@ https://github.com/valsou/neoretro
 https://github.com/VGmove/EasyLaunch
 https://github.com/waldnercharles/Minimis
 https://github.com/y-muller/retromega-sleipnir
+https://github.com/ZagonAb/Amberline
 https://github.com/ZagonAb/Anbernic-Theme
 https://github.com/ZagonAb/BigScreenFE
 https://github.com/ZagonAb/Collection-Hub
